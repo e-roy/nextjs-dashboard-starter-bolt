@@ -13,7 +13,15 @@ This is just a simple dashboard app with basic packages and components in place.
 - zod
 - zustand
 
-## Getting Started
+## Getting Started on Bolt.new
+
+For an extra 200k tokens us my [referral link](https://bolt.new/?rid=52eivv) first, then
+
+Open link [https://bolt.new/github.com/e-roy/nextjs-dashboard-starter-bolt](https://bolt.new/github.com/e-roy/nextjs-dashboard-starter-bolt) and start using.
+
+If you upgrade to the Pro account within 30 days we both earn an additional 5M tokens.
+
+## Getting Started Locally
 
 First, install dependencies:
 
